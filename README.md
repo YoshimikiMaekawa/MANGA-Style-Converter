@@ -1,6 +1,10 @@
 # MangaStyleConverter
 This program converts your image files to MANGA style with processing.
 
+現在，3992x3816までのサイズの画像に対応できています．対応サイズを大きくしたい場合は，tonesディレクトリに入っているトーン画像のサイズを大きくしてください．
+
+Currently, this program can handle images up to 3992x3816. If you want to increase the supported size, increase the size of tone images in the tones directory.
+
 ## 使用方法 -- How to run
 ### 日本語
 + 11行目：`input_name`に元画像ファイルのパスを指定
