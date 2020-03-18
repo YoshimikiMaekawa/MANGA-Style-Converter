@@ -35,7 +35,7 @@ Currently, this program can handle images up to 3992x3816. If you want to increa
 ![manga_toyamaStation.png](https://github.com/YoshimikiMaekawa/MangaStyleConverter/blob/master/mangaStyleImages/manga_toyamaStation.png)
 
 ### 結果：カラーマンガスタイル画像 -- Results: Color MANGA style
-+ manga_color_toyamaStation.png
++ manga_color_cat.png
 ![manga_color_cat.png](https://github.com/YoshimikiMaekawa/MangaStyleConverter/blob/master/colorMangaStyleImages/manga_color_cat.png)
 + manga_color_toyamaStation.png
 ![manga_color_toyamaStation.png](https://github.com/YoshimikiMaekawa/MangaStyleConverter/blob/master/colorMangaStyleImages/manga_color_toyamaStation.png)
